@@ -4,7 +4,7 @@ function dbxcolor:install
 
 ##Starts the timer for every 1 second
 
-function dbxcolor:runner
+function dbxcolor:start
 
 ##Informs everyone that the datapack is loaded
 
