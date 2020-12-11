@@ -9,6 +9,3 @@ function dbx.color:afk/load
 
 ##Starts the timer for every 1 second
 function dbx.color:start
-
-##Informs everyone that the datapack is loaded
-tellraw @a ["",{"text":"Color Changer datapack loaded.","color":"green"}]
