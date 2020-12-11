@@ -1,5 +1,8 @@
 ##Opens color changer when requested
+#Normal
 execute as @a[scores={color=1}] run function dbx.color:colorlist
+#Accessability
+execute as @a[scores={color=-1}] run function dbx.color:colorlistaccessibility
 
 ##Applies the default color to new users
 execute as @a[tag=!dbx.c.defaultcolorset,team=] run function dbx.color:defaultcolor
