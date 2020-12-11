@@ -1,5 +1,14 @@
 ###Removes all teams and scoreboard objectives created by the install function
 
+##Stop all scheduled functions
+
+#/trigger color
+schedule clear dbx.color:start
+
+#/function dbx.color:afk/
+schedule clear dbx.color:afk/remcheck
+schedule clear dbx.color:afk/check
+
 ##Removes required scoreboard objectives
 
 #/trigger color
