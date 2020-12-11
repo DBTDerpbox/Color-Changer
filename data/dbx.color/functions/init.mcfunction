@@ -1,8 +1,11 @@
 ##Installs the datapack
 function dbx.color:install
 
-##Sets default color value to none if it doesnt exist already
-execute unless score #dbx.c.store dbx.c.default matches 0..16 run scoreboard players set #dbx.c.store dbx.c.default 0
+##Load default config if it isnt created
+function dbx.color:defaultconfig
+
+##Start AFK check if it is enabled in the config
+function dbx.color:afk/load
 
 ##Starts the timer for every 1 second
 function dbx.color:start

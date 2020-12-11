@@ -7,5 +7,8 @@ tellraw @s[tag=dbx.c.defaultcolorset] ["",{"text":"Changed color to Dark Green!"
 ##Tag the user so that defaultcolor.mcfunction doesnt keep changing their color
 tag @s[tag=!dbx.c.defaultcolorset] add dbx.c.defaultcolorset
 
+##Remove AFK status if user if AFK
+execute as @s[tag=dbx.c.afk] run function dbx.color:afk/removeafk
+
 ##Reset their score from using the /trigger command or from default color being set
 scoreboard players reset @s color

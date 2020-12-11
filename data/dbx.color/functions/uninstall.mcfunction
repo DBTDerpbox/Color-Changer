@@ -7,6 +7,14 @@ scoreboard objectives remove color
 
 #/function dbx.color:config
 scoreboard objectives remove dbx.c.default
+
+#/function dbx.color:afk/config
+scoreboard objectives remove dbx.c.afk
+
+#/function dbx.color:afk/space/load
+scoreboard objectives remove dbx.c.afkspace
+
+#Delete config
 scoreboard players reset #dbx.c.store
 
 
@@ -56,6 +64,63 @@ team remove dbxcred
 
 #yellow
 team remove dbxcyellow
+
+
+##Remove AFK display teams
+#Aqua
+team remove dbxcafkaqua
+
+#black
+team remove dbxcafkblack
+
+#blue
+team remove dbxcafkblue
+
+#dark aqua
+team remove dbxcafkdark_aqua
+
+#dark blue
+team remove dbxcafkdark_blue
+
+#dark gray
+team remove dbxcafkdark_gray
+
+#dark green
+team remove dbxcafkdark_gree
+
+#dark purple
+team remove dbxcafkdark_purp
+
+#dark red
+team remove dbxcafkdark_red
+
+#gold
+team remove dbxcafkgold
+
+#gray
+team remove dbxcafkgray
+
+#green
+team remove dbxcafkgreen
+
+#pink
+team remove dbxcafklight_pur
+
+#red
+team remove dbxcafkred
+
+#yellow
+team remove dbxcafkyellow
+
+##AFK Module
+##AFK Module is a modified version of https://vanillatweaks.net/'s AFK Display datapack!
+scoreboard objectives remove dbx.c.x1
+scoreboard objectives remove dbx.c.x2
+scoreboard objectives remove dbx.c.y1
+scoreboard objectives remove dbx.c.y2
+scoreboard objectives remove dbx.c.z1
+scoreboard objectives remove dbx.c.z2
+scoreboard objectives remove dbx.c.checkAFK
 
 ##informs user that the datapack is ready to be uninstalled
 
