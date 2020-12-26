@@ -10,7 +10,7 @@ team join dbxcred @s[team=dbxcafkred]
 #Aqua
 team join dbxcaqua @s[team=dbxcafkaqua]
 #Green
-team join dbxcgreen @s[team=dbxcafkgree]
+team join dbxcgreen @s[team=dbxcafkgreen]
 #Blue
 team join dbxcblue @s[team=dbxcafkblue]
 #Dark Gray
