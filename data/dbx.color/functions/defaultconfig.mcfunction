@@ -9,3 +9,6 @@ execute unless score #dbx.c.store dbx.c.afkspace matches 0..1 run scoreboard pla
 
 ##Sets default AFK invincibility value to disabled if it doesnt exist already
 execute unless score #dbx.c.store dbx.c.afkinvinc matches 0..1 run scoreboard players set #dbx.c.store dbx.c.afkinvinc 0
+
+##Sets default AFK collision value to disabled if it doesnt exist already
+execute unless score #dbx.c.store dbx.c.afkcoll matches 0..1 run scoreboard players set #dbx.c.store dbx.c.afkcoll 0

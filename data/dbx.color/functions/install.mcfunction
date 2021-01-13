@@ -17,6 +17,9 @@ scoreboard objectives add dbx.c.afkspace dummy
 #AFK Invincibility
 scoreboard objectives add dbx.c.afkinvinc dummy
 
+#AFK collision
+scoreboard objectives add dbx.c.afkcoll dummy
+
 
 ##Add required teams, assign those teams colors and set proper team settings
 

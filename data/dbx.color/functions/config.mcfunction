@@ -14,3 +14,6 @@ function dbx.color:afk/config/space/load
 
 ##Get current AFK invincibility setting
 function dbx.color:afk/config/invincibility/load
+
+##Get current AFK collision setting
+function dbx.color:afk/config/collision/load
