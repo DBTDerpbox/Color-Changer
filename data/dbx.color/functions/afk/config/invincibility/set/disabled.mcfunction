@@ -1,4 +1,4 @@
-##Set AFK inficator to disabled
+##Set AFK invincibility to disabled
 scoreboard players set #dbx.c.store dbx.c.afkinvinc 0
 
 ##Remove AFK effects

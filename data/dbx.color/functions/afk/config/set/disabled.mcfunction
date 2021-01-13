@@ -1,4 +1,4 @@
-##Set AFK inficator to disabled
+##Set AFK indicator to disabled
 scoreboard players set #dbx.c.store dbx.c.afk 0
 
 ##Stop AFK check
