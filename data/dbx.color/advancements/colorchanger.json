@@ -1,6 +1,6 @@
 {
     "display": {
-        "title": "Color Changer V1.1",
+        "title": "Color Changer V1.2",
         "description": ["",{"text":"Your username color can be changed with ","color":"green"},{"text":"/trigger color","color":"gold"},{"text":"\n"},{"text":"\n"},{"text":"Accessibility mode can be accessed with ","color":"green"},{"text":"/trigger color set -1","color":"gold"},{"text":"\n"},{"text":"\n"},{"text":"The datapack can be configured with ","color":"green"},{"text":"/function dbx.color:config","color":"gold"}],
         "icon": {
             "item": "light_blue_dye"
