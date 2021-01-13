@@ -127,6 +127,9 @@ team remove dbxcafkred
 #yellow
 team remove dbxcafkyellow
 
+##none
+team remove dbxcafknone
+
 ##AFK Module
 ##AFK Module is a modified version of https://vanillatweaks.net/'s AFK Display datapack!
 scoreboard objectives remove dbx.c.x1
