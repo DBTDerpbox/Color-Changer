@@ -16,6 +16,10 @@ Color Changer is a simple datapack that allows users to change their username co
 
 * AFK Space: Should there be a space between the AFK Indicator and the player's username?
 
+* AFK Invincibility: When the user goes AFK, the user will become invincible
+
+* AFK Collision: When the user goes AFK, they can be pushed by other players or entities
+
 ### Notices
 
 Color Changer should not be used on any server that utilizes teams!
