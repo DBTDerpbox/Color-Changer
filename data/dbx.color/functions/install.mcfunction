@@ -14,6 +14,9 @@ scoreboard objectives add dbx.c.afk dummy
 #For /function dbx.color:afk/space/load
 scoreboard objectives add dbx.c.afkspace dummy
 
+#AFK Invincibility
+scoreboard objectives add dbx.c.afkinvinc dummy
+
 
 ##Add required teams, assign those teams colors and set proper team settings
 

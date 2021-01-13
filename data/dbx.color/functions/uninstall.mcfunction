@@ -23,6 +23,9 @@ scoreboard objectives remove dbx.c.afk
 #/function dbx.color:afk/space/load
 scoreboard objectives remove dbx.c.afkspace
 
+#AFK Invincibility
+scoreboard objectives remove dbx.c.afkinvinc
+
 #Delete config
 scoreboard players reset #dbx.c.store
 
