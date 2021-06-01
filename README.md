@@ -13,6 +13,12 @@ Color Changer is a simple datapack that allows users to change their username co
 
 * To access Accessibility mode, type /trigger color set -1
 
+### Versions
+
+Color Changer is supported on Minecraft Java Edition [1.16.5](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5) and [1.15.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-15-2)
+
+The 1.15.2 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.15)
+
 ### Config Options
 
 * Default Color: Setting a default color makes that the color that users will receive by default
@@ -28,8 +34,6 @@ Color Changer is a simple datapack that allows users to change their username co
 ### Notices
 
 Color Changer should not be used on any server that utilizes teams!
-
-Color Changer is currently designed for [Minecraft Java Edition 1.16.4](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-4)
 
 ## Authors
 
