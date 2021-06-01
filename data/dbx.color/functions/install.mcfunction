@@ -182,8 +182,8 @@ team modify dbxcafknone seeFriendlyInvisibles false
 ##AFK Module is a modified version of https://vanillatweaks.net/'s AFK Display datapack!
 scoreboard objectives add dbx.c.x1 dummy
 scoreboard objectives add dbx.c.x2 dummy
-scoreboard objectives add dbx.c.y1 dummy
-scoreboard objectives add dbx.c.y2 dummy
+#scoreboard objectives add dbx.c.y1 dummy
+#scoreboard objectives add dbx.c.y2 dummy
 scoreboard objectives add dbx.c.z1 dummy
 scoreboard objectives add dbx.c.z2 dummy
 scoreboard objectives add dbx.c.checkAFK dummy
