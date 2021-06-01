@@ -1,5 +1,4 @@
-###This file allows you to set a default color for when people join for the first time
-###Uncomment the line of the color you want to be the default color
+###This file dictates what function gets run for each default color
 
 ##Colors
 #None
