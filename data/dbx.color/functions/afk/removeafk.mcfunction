@@ -33,7 +33,10 @@ team join dbxcdark_blue @s[team=dbxcafkdark_blue]
 team join dbxcblack @s[team=dbxcafkblack]
 
 ##Remove invincibility
+#Knockback
 attribute @s minecraft:generic.knockback_resistance base set 0
+#Armor Durability
+function dbx.color:afk/invincibility/armor/remove
 
 ##Remove AFK tag
 tag @s remove dbx.c.afk

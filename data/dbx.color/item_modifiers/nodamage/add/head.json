@@ -1,0 +1,19 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{Unbreakable:1b,dbx.color.NoDamage:1}",
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "head": {
+              "tag": "dbx.color:armor"
+            }
+          }
+        }
+      }
+    ]
+  }
+]

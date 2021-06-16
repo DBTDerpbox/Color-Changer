@@ -12,6 +12,9 @@ schedule clear dbx.color:afk/check
 #AFK invincibility
 schedule clear dbx.color:afk/invincibility/effect
 
+#Armor Invincibility
+schedule clear dbx.color:afk/invincibility/armor/check
+
 ##Removes required scoreboard objectives
 
 #/trigger color

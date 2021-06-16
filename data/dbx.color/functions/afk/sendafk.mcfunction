@@ -36,7 +36,10 @@ team join dbxcafkblack @s[team=dbxcblack]
 tag @s add dbx.c.afk
 
 ##Make invincible if enabled
+#Knockback
 execute if score #dbx.c.store dbx.c.afkinvinc matches 1 run attribute @s minecraft:generic.knockback_resistance base set 100
+#Armor Durability
+execute if score #dbx.c.store dbx.c.afkinvinc matches 1 run function dbx.color:afk/invincibility/armor/add
 
 ##Inform user they are AFK
 tellraw @s {"text":"You are now AFK.","color":"gray"}

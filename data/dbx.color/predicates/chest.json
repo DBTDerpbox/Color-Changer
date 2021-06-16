@@ -1,0 +1,12 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "chest": {
+          "tag": "dbx.color:armor",
+          "nbt": "{dbx.color.NoDamage:1}"
+        }
+      }
+    }
+  }
