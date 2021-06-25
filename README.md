@@ -40,4 +40,4 @@ Color Changer should not be used on any server that utilizes teams!
 
 * **Derpbox** - *Datapack Developer* - [Derpbox](https://github.com/dbtderpbox)
 * **VanillaTweaks** - *AFK Module* - [VanillaTweaks](https://vanillatweaks.net/)
-* **Perfect System DX** *Brush Icon* - [PSDX](https://twitter.com/PerfectDx)
+* **Perfect System DX** - *Brush Icon* - [PSDX](https://twitter.com/PerfectDx)
