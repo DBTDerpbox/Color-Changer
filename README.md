@@ -15,7 +15,9 @@ Color Changer is a simple datapack that allows users to change their username co
 ### Versions
 
 The 1.17-1.20.4 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.17-1.20.4)
+
 The 1.16.5 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.16.5)
+
 The 1.15.2 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.15)
 
 ### Config Options
