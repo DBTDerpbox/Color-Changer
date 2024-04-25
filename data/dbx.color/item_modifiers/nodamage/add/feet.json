@@ -1,19 +1,20 @@
 [
-    {
-      "function": "minecraft:set_nbt",
-      "tag": "{Unbreakable:1b,dbx.color.NoDamage:1}",
-      "conditions": [
-        {
-          "condition": "minecraft:entity_properties",
-          "entity": "this",
-          "predicate": {
-            "equipment": {
-              "feet": {
-                "tag": "dbx.color:armor"
-              }
-            }
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:unbreakable": {},
+      "minecraft:custom_data": {"dbx.color.NoDamage":1}
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "feet": {}
           }
         }
-      ]
-    }
-  ]
+      }
+    ]
+  }
+]

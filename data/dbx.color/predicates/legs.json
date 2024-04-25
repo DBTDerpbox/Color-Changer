@@ -1,12 +1,13 @@
 {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-      "equipment": {
-        "legs": {
-          "tag": "dbx.color:armor",
-          "nbt": "{dbx.color.NoDamage:1}"
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "legs": {
+        "components": {
+          "minecraft:custom_data": {"dbx.color.NoDamage":1}
         }
       }
     }
   }
+}

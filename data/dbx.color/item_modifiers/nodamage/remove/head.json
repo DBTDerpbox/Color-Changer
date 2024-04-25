@@ -1,16 +1,17 @@
 [
   {
-    "function": "minecraft:set_nbt",
-    "tag": "{Unbreakable:0b,dbx.color.NoDamage:0}",
+    "function": "minecraft:set_components",
+    "components": {
+      "!minecraft:unbreakable": {},
+      "minecraft:custom_data": {"dbx.color.NoDamage":1}
+    },
     "conditions": [
       {
         "condition": "minecraft:entity_properties",
         "entity": "this",
         "predicate": {
           "equipment": {
-            "head": {
-              "tag": "dbx.color:armor"
-            }
+            "head": {}
           }
         }
       }
