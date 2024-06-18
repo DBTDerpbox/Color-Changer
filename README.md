@@ -15,7 +15,11 @@ Color Changer is a simple datapack that allows users to change their username co
 
 ### Versions
 
-Color Changer is supported on Minecraft Java Edition [1.16.5](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5) and [1.15.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-15-2)
+The 1.20.5-1.20.6 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.20.5)
+
+The 1.17-1.20.4 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.17-1.20.4)
+
+The 1.16.5 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.16.5)
 
 The 1.15.2 branch can be found [here!](https://github.com/DBTDerpbox/Color-Changer/tree/1.15)
 
