@@ -4,6 +4,7 @@ Color Changer is a simple datapack that allows users to change their username co
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.15.2--1.21-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/color-changer?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/color-changer?style=for-the-badge)
 
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com) ![test](https://raw.githubusercontent.com/DBTDerpbox/Color-Changer/image/badge.svg)
 
 ### Usage
 
