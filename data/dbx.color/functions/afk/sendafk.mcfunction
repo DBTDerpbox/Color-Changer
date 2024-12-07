@@ -36,4 +36,4 @@ team join dbxcafkblack @s[team=dbxcblack]
 tag @s add dbx.c.afk
 
 ##Inform user they are AFK
-tellraw @s {"text":"You are now AFK.","color":"gray"}
+execute if score #dbx.c.store dbx.c.afknotif matches 1 run tellraw @s {"text":"You are now AFK.","color":"gray"}
