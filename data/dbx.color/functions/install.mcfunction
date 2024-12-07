@@ -20,6 +20,8 @@ scoreboard objectives add dbx.c.afkinvinc dummy
 #AFK collision
 scoreboard objectives add dbx.c.afkcoll dummy
 
+#AFK notification
+scoreboard objectives add dbx.c.afknotif dummy
 
 ##Add required teams, assign those teams colors and set proper team settings
 

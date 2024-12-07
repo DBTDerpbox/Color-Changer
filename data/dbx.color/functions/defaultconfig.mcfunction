@@ -12,3 +12,6 @@ execute unless score #dbx.c.store dbx.c.afkinvinc matches 0..1 run scoreboard pl
 
 ##Sets default AFK collision value to disabled if it doesnt exist already
 execute unless score #dbx.c.store dbx.c.afkcoll matches 0..1 run scoreboard players set #dbx.c.store dbx.c.afkcoll 0
+
+##Sets default AFK notification value to disabled if it doesnt exist already
+execute unless score #dbx.c.store dbx.c.afknotif matches 0..1 run scoreboard players set #dbx.c.store dbx.c.afknotif 1
