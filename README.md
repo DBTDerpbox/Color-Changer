@@ -36,6 +36,8 @@ The 1.15.2 branch can be found [here!](https://github.com/DBTDerpbox/Color-Chang
 
 * AFK Collision: When the user goes AFK, they can be pushed by other players or entities
 
+* AFK Notification: When the user goes AFK, notify them that they are now AFK in chat
+
 ### Notices
 
 Color Changer should not be used on any server that utilizes teams!
