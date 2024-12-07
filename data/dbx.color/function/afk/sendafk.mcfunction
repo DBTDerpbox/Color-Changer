@@ -42,4 +42,4 @@ execute if score #dbx.c.store dbx.c.afkinvinc matches 1 run attribute @s minecra
 execute if score #dbx.c.store dbx.c.afkinvinc matches 1 run function dbx.color:afk/invincibility/armor/add
 
 ##Inform user they are AFK
-tellraw @s {"text":"You are now AFK.","color":"gray"}
+execute if score #dbx.c.store dbx.c.afknotif matches 1 run tellraw @s {"text":"You are now AFK.","color":"gray"}
