@@ -32,6 +32,9 @@ scoreboard objectives remove dbx.c.afkinvinc
 ##AFK Collision
 scoreboard objectives remove dbx.c.afkcoll
 
+##AFK Notification
+scoreboard objectives remove dbx.c.afknotif
+
 #Delete config
 scoreboard players reset #dbx.c.store
 
